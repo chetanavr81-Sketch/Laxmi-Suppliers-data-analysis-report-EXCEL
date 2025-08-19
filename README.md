@@ -1,13 +1,21 @@
 📊 Laxmi Suppliers Annual Data Analysis Report - 2025
 🎯 Objective
 The primary objective of this analysis is to understand Laxmi Suppliers’ sales performance in 2025 across multiple dimensions:
+
 Customer Demographics – Gender, Age, and Age Groups.
+
 Sales Channels – Performance across Amazon, Flipkart, Myntra, Ajio, Meesho, Tatacliq, and Others.
+
 Product Categories – Contribution of Clothing, Jewelry, Cosmetics, Bags, Wallets, and Perfumes.
+
 Geographic Distribution – Sales contribution from top-performing states.
+
 Order Fulfillment – Delivery vs. Cancellation, Returns, and Refunds.
+
 The goal is to identify growth opportunities, optimize channel strategies, and improve customer retention.
+
 📖 Dataset Description
+
 The dataset consists of customer order records including:
 Demographic Data: Gender, Age, Age Group (Teenager, Adult, Senior).
 Order Details: Order ID, Date, Fulfillment Status (Delivered, Cancelled, Returned, Refunded).
