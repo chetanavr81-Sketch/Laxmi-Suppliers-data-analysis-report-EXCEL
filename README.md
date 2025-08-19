@@ -36,27 +36,33 @@ Summary of Findings
 Women: 70% of total sales.
 Men: 30% of total sales.
 Insight: The business heavily relies on women customers, especially in clothing and jewelry.
-3. Age Group Analysis
+
+2. Age Group Analysis
 Adults (30–50 years): Largest customer segment (~50%).
 Seniors (50+ years): Second highest segment (~30%).
 Teenagers (18–29 years): Smaller share (~20%).
+
 ➡️ Insight: Adults form the backbone of sales, but there is a strong base in seniors who buy jewelry and premium products.
-3. Order Fulfillment Status
+4. Order Fulfillment Status
 Delivered: Majority (>80%).
 Cancelled/Returned/Refunded: ~15–20% combined.
+
 ➡️ Insight: High delivery rate is positive. However, returns and refunds indicate areas where product quality, descriptions, or customer expectations could be improved.
-4. Geographic Performance
+5. Geographic Performance
 Top States: A small number of states contribute the majority of revenue (₹10M+).
 Some states show low sales penetration, highlighting untapped markets.
+
 ➡️ Insight: Regional demand is concentrated. Marketing campaigns and partnerships in weaker states could expand reach.
-5. Sales Channels
+6. Sales Channels
 Top Performers: Amazon, Flipkart, and Myntra dominate.
 Emerging Platforms: Ajio, Meesho, and Tatacliq are growing steadily.
+
 ➡️ Insight: Strong presence on Amazon & Flipkart should be maintained, while more investment in Ajio/Meesho can capture upcoming online buyers.
-6. Product Categories
+7. Product Categories
 Clothing & Jewelry: Leading categories, driving majority of sales.
 Cosmetics & Bags: Medium performance but with growth potential.
 Wallets & Perfumes: Lower sales, niche products.
+
 ➡️ Insight: Focus can be shifted towards cosmetics (high repeat purchases) while using bags & wallets as cross-sell items.
 ✅ Conclusion & Recommendations
 Key Strengths
