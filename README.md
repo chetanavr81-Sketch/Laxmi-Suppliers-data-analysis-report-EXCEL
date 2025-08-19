@@ -16,11 +16,6 @@ Product Categories: Clothing, Jewelry, Cosmetics, Bags, Wallets, Perfumes.
 Geographic Data: Sales by states across India.
 Key KPIs (Key Performance Indicators) analyzed:
 Revenue (INR)
-Order Count
-Delivery Success Rate (%)
-Customer Demographic Share (%)
-Channel Contribution (%)
-Category Contribution (%)
 Summary of Findings
 1. Gender Distribution
 Women: 70% of total sales.
@@ -42,7 +37,6 @@ Some states show low sales penetration, highlighting untapped markets.
 5. Sales Channels
 Top Performers: Amazon, Flipkart, and Myntra dominate.
 Emerging Platforms: Ajio, Meesho, and Tatacliq are growing steadily.
-Niche Channels: Nalli (traditional wear) and Others contribute a smaller share.
 ➡️ Insight: Strong presence on Amazon & Flipkart should be maintained, while more investment in Ajio/Meesho can capture upcoming online buyers.
 6. Product Categories
 Clothing & Jewelry: Leading categories, driving majority of sales.
