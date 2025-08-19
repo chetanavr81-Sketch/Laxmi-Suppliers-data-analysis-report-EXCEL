@@ -64,35 +64,53 @@ Cosmetics & Bags: Medium performance but with growth potential.
 Wallets & Perfumes: Lower sales, niche products.
 
 ➡️ Insight: Focus can be shifted towards cosmetics (high repeat purchases) while using bags & wallets as cross-sell items.
+
 ✅ Conclusion & Recommendations
 Key Strengths
+
 ✔ Strong women-centric customer base (70%).
+
 ✔ Adults (30–50 years) are the prime buying group.
+
 ✔ High delivery success rate (>80%).
+
 ✔ Strong brand presence on Amazon, Flipkart, and Myntra.
 
 Challenges
 
 ⚠ High return/refund rates (15–20%).
+
 ⚠ Over-dependence on few states for sales.
+
 ⚠ Lower penetration in teenage customers.
+
 ⚠ Wallets & perfumes categories underperforming.
 
 Recommendations
 
 Diversify Channel Strategy:
+
 Invest in Ajio & Meesho advertising.
+
 Create exclusive product launches on Myntra & Amazon.
+
 Expand Category Sales:
 Strengthen cosmetics & bags with bundle offers.
 Use perfumes & wallets as loyalty or promotional products.
+
 Reduce Returns & Refunds:
 Improve product descriptions, sizing guides, and quality checks.
+
 Offer easy exchanges instead of refunds.
+
 Targeted Marketing:
 Women-focused campaigns for clothing & jewelry.
+
 Senior-focused premium jewelry offers.
+
 Youth-focused fast fashion on Flipkart & Ajio.
+
 Geographic Expansion:
 Run state-wise campaigns in low-sales regions.
+
 Partner with local delivery providers for better reach.
