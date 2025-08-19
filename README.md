@@ -88,29 +88,30 @@ Challenges
 
 Recommendations
 
-Diversify Channel Strategy:
+1. Diversify Channel Strategy:
 
-Invest in Ajio & Meesho advertising.
+2. Invest in Ajio & Meesho advertising.
 
-Create exclusive product launches on Myntra & Amazon.
+3. Create exclusive product launches on Myntra & Amazon.
 
-Expand Category Sales:
+4. Expand Category Sales:
 Strengthen cosmetics & bags with bundle offers.
-Use perfumes & wallets as loyalty or promotional products.
 
-Reduce Returns & Refunds:
+5. Use perfumes & wallets as loyalty or promotional products.
+
+6. Reduce Returns & Refunds:
 Improve product descriptions, sizing guides, and quality checks.
 
-Offer easy exchanges instead of refunds.
+7. Offer easy exchanges instead of refunds.
 
-Targeted Marketing:
+8. Targeted Marketing:
 Women-focused campaigns for clothing & jewelry.
 
-Senior-focused premium jewelry offers.
+9. Senior-focused premium jewelry offers.
 
-Youth-focused fast fashion on Flipkart & Ajio.
+10. Youth-focused fast fashion on Flipkart & Ajio.
 
-Geographic Expansion:
+11. Geographic Expansion:
 Run state-wise campaigns in low-sales regions.
 
-Partner with local delivery providers for better reach.
+12. Partner with local delivery providers for better reach.
